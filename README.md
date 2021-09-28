@@ -1,5 +1,8 @@
 # A03
 
+Charlie Romanowski 
+Section 101
+
 I already have github set up for another class, so I just created another repository name A03 with a README file.
 I also am using visual studio code instead of webstorm, since I'm more used to it.
 https://code.visualstudio.com/Download
